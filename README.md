@@ -1,6 +1,8 @@
 ![Cover](ɹəʌoɔ.svg)
 
-# KIRAKIRA-Rosales
+# KIRAKIRA-Rosales-old
+Backup for old KIRAKIRA-Rosales codes
+
 KIRAKIRA-Rosales, 一个基于 Koa 框架的、RESTful 的后端 API.
 
 API 参考，请参阅 [路由](https://github.com/KIRAKIRA-DOUGA/KIRAKIRA-Rosales/blob/develop/src/route/router.ts)。
